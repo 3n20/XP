@@ -1,0 +1,14 @@
+cd /opt/sysbot/sysbot-logs
+npm install
+cd /opt/sysbot/sysbot-dashboard
+npm install
+cd /opt/sysbot/sysbot-webapp
+npm install
+cd /opt/sysbot/sysbot-webhook
+npm install
+cd /opt/sysbot/sysbot-autenticador
+npm install
+cd /opt/sysbot/sysbot
+npm install
+cd /opt/sysbot/sysbot-central-api
+npm install

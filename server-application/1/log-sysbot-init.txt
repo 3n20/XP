@@ -1,0 +1,29 @@
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mlogs.js[39m
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mdashboard.js[39m
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mwebapp.js[39m
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mwebhook.js[39m
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mautenticador.js[39m
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90msysbot.js[39m
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[33mwarn[39m:    --spinSleepTime not set. Your script will exit if it does not stay up for at least 1000ms
+[32minfo[39m:    Forever processing file: [90mcentralapi.js[39m
+[32minfo[39m:    Forever processes running
+[90mdata[39m:    [37m   [39m [37muid[39m  [90mcommand[39m       [90mscript[39m          [37mforever[39m [37mpid[39m  [37mid[39m [35mlogfile[39m                 [33muptime[39m      
+[90mdata[39m:    [0] ENWp [90m/usr/bin/node[39m [90mlogs.js[39m         1362    1374    [35m/root/.forever/ENWp.log[39m [33m0:0:0:4.112[39m 
+[90mdata[39m:    [1] OqoG [90m/usr/bin/node[39m [90mdashboard.js[39m    1386    1404    [35m/root/.forever/OqoG.log[39m [33m0:0:0:3.400[39m 
+[90mdata[39m:    [2] 0BRU [90m/usr/bin/node[39m [90mwebapp.js[39m       1414    1426    [35m/root/.forever/0BRU.log[39m [33m0:0:0:2.934[39m 
+[90mdata[39m:    [3] v-8H [90m/usr/bin/node[39m [90mwebhook.js[39m      1436    1448    [35m/root/.forever/v-8H.log[39m [33m0:0:0:2.310[39m 
+[90mdata[39m:    [4] AH5V [90m/usr/bin/node[39m [90mautenticador.js[39m 1458    1470    [35m/root/.forever/AH5V.log[39m [33m0:0:0:1.884[39m 
+[90mdata[39m:    [5] VUKo [90m/usr/bin/node[39m [90msysbot.js[39m       1480    1492    [35m/root/.forever/VUKo.log[39m [33m0:0:0:0.967[39m 
