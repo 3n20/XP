@@ -1,0 +1,15 @@
+[2018-09-19T18:49:39.175Z] PM2 log: ===============================================================================
+[2018-09-19T18:49:39.181Z] PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+[2018-09-19T18:49:39.182Z] PM2 log: Time                 : Wed Sep 19 2018 18:49:39 GMT-0300 (Hora oficial do Brasil)
+[2018-09-19T18:49:39.182Z] PM2 log: PM2 version          : 3.0.3
+[2018-09-19T18:49:39.183Z] PM2 log: Node.js version      : 8.11.3
+[2018-09-19T18:49:39.183Z] PM2 log: Current arch         : x64
+[2018-09-19T18:49:39.183Z] PM2 log: PM2 home             : C:\sysbot\sysbot\sysbot\.pm2
+[2018-09-19T18:49:39.183Z] PM2 log: PM2 PID file         : C:\sysbot\sysbot\sysbot\.pm2\pm2.pid
+[2018-09-19T18:49:39.184Z] PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+[2018-09-19T18:49:39.196Z] PM2 log: BUS socket file      : \\.\pipe\pub.sock
+[2018-09-19T18:49:39.196Z] PM2 log: Application log path : C:\sysbot\sysbot\sysbot\.pm2\logs
+[2018-09-19T18:49:39.196Z] PM2 log: Process dump file    : C:\sysbot\sysbot\sysbot\.pm2\dump.pm2
+[2018-09-19T18:49:39.196Z] PM2 log: Concurrent actions   : 2
+[2018-09-19T18:49:39.197Z] PM2 log: SIGTERM timeout      : 1600
+[2018-09-19T18:49:39.197Z] PM2 log: ===============================================================================
